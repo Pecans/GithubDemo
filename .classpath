@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MySQLJDBC"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JSON.org"/>
+	<classpathentry kind="lib" path="F:/同步盘/java资料/jar包/org.json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
