@@ -27,7 +27,7 @@ public class InputComment {
 	private String commentFilePath;
 	private String commentPath;
 	private String URL; 
-	private String MD5;
+	private String MD5; 
 	private int[] ID;
 	/**
 	 * 对外的入口方法
